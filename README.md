@@ -1,4 +1,4 @@
-# Mobile Camera Application to Monitor Residential Society Vehicle Activity
+# Mobile Camera Application to Monitor Residential Society Vehicle Activity Group No: PSCS43
 
 ## Project Overview
 This project aims to develop a mobile camera application that monitors vehicle activity within a residential society. The application leverages image processing and AI techniques to track and analyze vehicle movements, ensuring enhanced security and efficient monitoring.
